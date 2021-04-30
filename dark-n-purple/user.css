@@ -51,11 +51,11 @@ body,
 }
 
 .fmPgAW > a, .fmPgAW > .navigation-link {
-	color: white;
+	color: white !important
 }
 
 .ebtnLL #logo > a {
-	color: white;
+	color: white !important
 }
 
 /* Changes Text Color */
