@@ -51,15 +51,19 @@ body,
 }
 
 .fmPgAW > a, .fmPgAW > .navigation-link {
-	color: white !important
+	color: white !important;
 }
 
 .ebtnLL #logo > a {
-	color: white !important
+	color: white !important;
 }
 
 .cWFcHc > div > a:active, .cWFcHc > div > div:active, .cWFcHc > div > a.active, .cWFcHc > div > div.active {
-	color: white !important
+	color: white !important;
+}
+
+.cWFcHc > div > a:not(:first-of-type), .cWFcHc > div > div:not(:first-of-type) {
+    color: white !important;
 }
 
 /* Changes Text Color */
