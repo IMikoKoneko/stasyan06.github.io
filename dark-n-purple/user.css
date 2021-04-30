@@ -66,11 +66,6 @@ body,
     color: white !important;
 }
 
-.kqnFDg, .kHuGmn, .hIHBYg, .eGIYvK, .bmqKpQ, .fQUMLV {
-    border-color: transparent !important;
-    background-color: #170326 !important;
-}
-
 /* Changes Text Color */
 
 .fNmetC,
@@ -424,7 +419,8 @@ code {
 .bmqKpQ,
 .fQUMLV {
 	border-radius: 4px !important;
-	background-color: #242338 !important;
+	border-color: transparent !important;
+    	background-color: #170326 !important;
 }
 
 
