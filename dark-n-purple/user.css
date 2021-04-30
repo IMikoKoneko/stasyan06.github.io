@@ -2,7 +2,7 @@
 
 body,
 .content-wrapper {
-	background: url("https://cdn.discordapp.com/attachments/737409622750789764/826889939857047552/1146672.jpg") no-repeat center center fixed; !important;
+	background: url("https://cdn.discordapp.com/attachments/737409622750789764/837795107339370526/240_F_288691510_GUg6qQ3EDLM0mxnL7UC3qJ4Ev7JjVWGb.jpg") no-repeat center center fixed; !important;
 }
 
 
@@ -64,6 +64,10 @@ body,
 
 .cWFcHc > div > a:not(:first-of-type), .cWFcHc > div > div:not(:first-of-type) {
     color: white !important;
+}
+
+.kqnFDg, .kHuGmn, .hIHBYg, .eGIYvK, .bmqKpQ, .fQUMLV {
+    background-color: #1e1c29 !important;
 }
 
 /* Changes Text Color */
