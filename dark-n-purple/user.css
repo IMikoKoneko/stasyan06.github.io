@@ -58,6 +58,10 @@ body,
 	color: white !important
 }
 
+.cWFcHc > div > a:active, .cWFcHc > div > div:active, .cWFcHc > div > a.active, .cWFcHc > div > div.active {
+	color: white !important
+}
+
 /* Changes Text Color */
 
 .fNmetC,
