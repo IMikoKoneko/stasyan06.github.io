@@ -18,7 +18,7 @@ body,
 .skin-blue .main-header .navbar,
 .skin-blue .main-header .logo,
 .main-footer {
-	background-color: #242338 !important;
+	background-color: #241daf00 !important;
 	border-color: transparent !important;
 	box-shadow: none !important;
 }
@@ -47,7 +47,7 @@ body,
 .JZicT>div>a.active,
 .JZicT>div>div.active {
 	box-shadow: #db8c58 0px -2px inset !important;
-	background-color: #242338 !important;
+	background-color: rgba(0, 0, 0, 0) !important;
 }
 
 
@@ -98,8 +98,8 @@ body,
 
 .gdhLjd>input[type="checkbox"]:checked+label,
 .cDmYBr>input[type="checkbox"]:checked+label {
-	background-color: #7289da !important;
-	border-color: #7289da !important;
+	background-color: #db8102 !important;
+	border-color: #db8102 !important;
 }
 
 
@@ -358,14 +358,14 @@ code {
 /* Changes scroll bar */
 
 ::-webkit-scrollbar-thumb:hover {
-	-webkit-box-shadow: inset 0 0 0 1px #7289da, inset 0 0 0 4px #7289da !important;
+	-webkit-box-shadow: inset 0 0 0 1px #db8102, inset 0 0 0 4px #db8102 !important;
 }
 
 ::-webkit-scrollbar-thumb {
 	border-right-width: 4px !important;
 	border-left-width: 4px !important;
 	-webkit-border-radius: 9px 4px !important;
-	-webkit-box-shadow: inset 0 0 0 1px #7289da, inset 0 0 0 4px #7289da !important;
+	-webkit-box-shadow: inset 0 0 0 1px #db8102, inset 0 0 0 4px #db8102 !important;
 }
 
 ::-webkit-scrollbar {
@@ -377,7 +377,7 @@ code {
 
 .JQChZ,
 .csimfD {
-	border-color: #7289da !important;
+	border-color: #db8102 !important;
 	background-color: #1e1d2d !important;
 	border-radius: 15px !important;
 	transform: scale(0.95) !important;
@@ -388,7 +388,7 @@ code {
 /* Changes input text area */
 
 .kZaCVF {
-	border-color: #7289da !important;
+	border-color: #db8102 !important;
 	background-color: #1e1d2d !important;
 	border-radius: 15px !important;
 	margin-top: .25vw !important;
@@ -507,18 +507,18 @@ select {
 .table>thead>tr>td,
 .table>tbody>tr>td,
 .table>tfoot>tr>td {
-	border-top-color: #7289da !important;
-	border-bottom-color: #7289da !important;
+	border-top-color: #db8102 !important;
+	border-bottom-color: #db8102 !important;
 }
 
 .nav-tabs-custom>.nav-tabs>li.active>a,
 .nav-tabs-custom>.nav-tabs>li.active:hover>a {
-	background-color: #1e1d2d !important;
+	background-color: rgba(0,0,0,0) !important;
 	border-color: transparent;
 }
 
 .nav-tabs-custom>.nav-tabs>li:hover {
-	border-top-color: #e89d25 !important;
+	border-top-color: rgba(0,0,0,0) !important;
 }
 
 
