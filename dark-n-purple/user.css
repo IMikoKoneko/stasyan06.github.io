@@ -2,17 +2,22 @@
   --main-bg-color: #282a36 !important;
   --secondary-bg-color: #242631 !important;
   --secondary-bg-color-alt: #20222c !important;
-  --accent-color: #f09000 !important;
-  --accent-secondary-color: #f09000 !important;
-  --text-color: #fafafa !important;
+  --accent-color: #28ac16 !important;
+  --accent-secondary-color: #28ac16 !important;
+  --text-color: #ff1a1a !important;
   --border-radius: 15px !important;
-  --accent-light: #d4b5ff !important;
+  --accent-light: #58ff4d !important;
+  --background-image: url("https://cdn.discordapp.com/attachments/786272077506150410/821433342125539408/hacker.png")
 }
 
 /* Changes Background */
 
 body, .content-wrapper {
 	background-color: var(--main-bg-color) !important;
+	background-image: var(--backgroud-image) !important;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 }
 
 
