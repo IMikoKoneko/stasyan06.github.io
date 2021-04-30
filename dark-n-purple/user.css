@@ -2,7 +2,7 @@
 
 body,
 .content-wrapper {
-	background: url("https://cdn.discordapp.com/attachments/737409622750789764/826889939857047552/1146672.jpg") !important;
+	background: url("https://cdn.discordapp.com/attachments/737409622750789764/826889939857047552/1146672.jpg") no-repeat center center fixed; !important;
 }
 
 
@@ -50,6 +50,13 @@ body,
 	background-color: rgba(0, 0, 0, 0) !important;
 }
 
+.fmPgAW > a, .fmPgAW > .navigation-link {
+	color: white;
+}
+
+.ebtnLL #logo > a {
+	color: white;
+}
 
 /* Changes Text Color */
 
